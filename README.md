@@ -32,7 +32,9 @@ Readmission Info: Indicators of patient readmissions
 This synthetic data mimicked real hospital scenarios to provide a framework for insights without using sensitive patient data.
 
 ## Executive Summary
-Overview of Findings
+<img width="1214" alt="Screenshot 2024-09-22 at 3 01 13 AM" src="https://github.com/user-attachments/assets/f2912dfd-d56e-4928-b785-101bf571da53">
+
+Overview of Findings  
 Key metrics and trends were uncovered:
 
 Patient Readmission Rates: 1 in 3 adults with diabetes (ICD-10 E11.9) were readmitted within two months, indicating high-risk groups that require better post-discharge care.
